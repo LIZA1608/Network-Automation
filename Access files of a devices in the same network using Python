@@ -6,3 +6,4 @@ python -m http.server
 #->Serving HTTP on :: port 8000 (http://[::]:8000/) ...
 #then open the google chrome and search->http://localhost:8000/
 #now you will be able to see all your Directory present on your laptop on this 
+#You can access the other systems which are on the same network just by doing the above process. To turn off, the server just presses Ctrl+c in the command prompt.
