@@ -12,4 +12,4 @@ g.add_edge(1, 4)
 g.add_edge(1, 5)
  
 nx.draw(g,with_labels=True)
-plt.savefig("unlabledgraph.png")
+plt.savefig("labledgraph.png")
