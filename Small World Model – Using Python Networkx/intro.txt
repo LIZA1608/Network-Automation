@@ -1,0 +1,10 @@
+
+In the Watts-Strogatz model, n, k, and p are parameters that define the characteristics of the generated graph:
+
+n: The number of nodes in the graph. Each node represents an entity, such as a computer, router, or person, depending on the application domain.
+k: The number of nearest neighbors each node is initially connected to. In other words, each node is connected to k other nodes in a ring topology before any edges are rewired.
+p: The probability of rewiring each edge. After creating the initial ring topology, each existing edge is randomly rewired with probability p. 
+This rewiring process helps create long-range connections and introduce randomness into the graph structure.
+
+These parameters collectively influence the structure of the generated Watts-Strogatz graph, impacting properties such as clustering coefficient, average path length, and small-world behavior.
+By adjusting these parameters, you can create graphs with different characteristics suited to specific network modeling or simulation requirements.
