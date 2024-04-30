@@ -1,0 +1,8 @@
+
+Approach:
+
+We will import the required module network
+We will set the number of nodes or n=5.
+Then we will create a graph object using networkx.wheel_graph(n).
+For realizing the graph, we will use networkx.draw(G).
+This will print the required wheel graph.
