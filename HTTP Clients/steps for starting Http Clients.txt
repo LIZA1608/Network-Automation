@@ -1,0 +1,4 @@
+
+so first in the terminal we have to start a command like ->  python -m http.server
+
+After this go to your vs code and make a python file. and refer the code of above files.
